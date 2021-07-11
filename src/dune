@@ -1,0 +1,3 @@
+(executable
+ (name game)
+ (libraries tsdl ctypes tgls tgls.tgl4))
